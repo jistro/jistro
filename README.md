@@ -22,18 +22,26 @@ Entry level data scientist 👨‍💻 from Mexico
 
 
 <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>
+<p></p>
+Things I use on a daily basis:
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" **alt="latex" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
-   
-</div>
+<img src='img/pop_os.png'   width='40'>
+<img src='img/vs_code.png'  width='40'>
+<img src='img/alacritty.svg'width='40'>
+<img src='img/markdown.png' width='40'>
+<img src='img/latex.png'    width='40'>
+<img src='img/git.png'      width='40'>
+<p></p>
+Things I'm learning:
+
+<img src='img/algorand.png'   width='40'>
+<img src='img/python.png'     width='40'>
+<img src='img/anaconda.png'   width='40'>
+<img src='img/tensorflow.png' width='40'>
+<img src='img/javascript.png' width='40'>
+<img src='img/sql.png'        width='40'>
+<p></p>
+
 
 <p align="center">【Ｍｙ　Ｓｔａｔｓ】</p>
 

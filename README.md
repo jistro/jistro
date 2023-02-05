@@ -46,8 +46,9 @@ Things I'm learning:
 
 <p align="center">【Ｍｙ　Ｓｔａｔｓ】</p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jistro&show_icons=true&theme=onedark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jistro&theme=onedark&border_radius=3&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jistro&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jistro&show_icons=true&theme=onedark)
+
+

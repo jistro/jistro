@@ -34,7 +34,8 @@ Things I use on a daily basis:
 </p>
 Things I'm learning:
 <p>
-  <img src='img/eth.png'   width='40'>
+  <img src='img/eth.png'        width='40'>
+  <img src='img/solidity.png'   width='40'>
   <img src='img/python.png'     width='40'>
   <img src='img/anaconda.png'   width='40'>
   <img src='img/tensorflow.png' width='40'>

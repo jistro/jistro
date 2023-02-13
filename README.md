@@ -5,20 +5,29 @@
 <img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="300"/>
 </div>
 <p></p>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/kevin-padilla-islas/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 
 ---
 
 <p align="center">【Ａｂｏｕｔ　Ｍｅ】</p>
 
-Entry level data scientist 👨‍💻 from Mexico
+Hi, I'm Kevin Padilla an Entry level data scientist 👨‍💻 from Mexico
 
 **Gender**: Non-binary (Him/Her  El/Ella)
+
+**Languages**: Engish and Spanish (Native) 
+<p align="center">【Ｃｏｎｔａｃｔ】</p>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/kevin-padilla-islas/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a> Kevin Raúl Padila Islas
+</div>
+
+<div id="badges">
+    <a href="mailto:kevin.padilla.islas@proton.me">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a> kevin.padilla.islas@proton.me
+</div>
+
 
 
 <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>

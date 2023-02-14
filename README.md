@@ -16,18 +16,13 @@ Hi, I'm Kevin Padilla an Entry level data scientist 👨‍💻 from Mexico
 
 **Languages**: Engish and Spanish (Native) 
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
-<div id="badges">
+
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/kevin-padilla-islas/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a> Kevin Raúl Padila Islas
+        <img src="https://img.shields.io/badge/Kevin Raúl Padila Islas-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+     <a href="mailto:kevin.padilla.islas@proton.me">
+        <img src="https://img.shields.io/badge/kevin.padilla.islas@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </div>
-
-<div id="badges">
-    <a href="mailto:kevin.padilla.islas@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  </a> kevin.padilla.islas@proton.me
-</div>
-
 
 
 <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>

@@ -6,8 +6,6 @@
 </div>
 <p></p>
 
----
-
 <p align="center">【Ａｂｏｕｔ　Ｍｅ】</p>
 
 Hi, I'm Kevin Padilla an Entry level data scientist 👨‍💻 from Mexico

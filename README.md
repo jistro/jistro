@@ -49,9 +49,6 @@ Things I'm learning:
 
 <p align="center">【Ｍｙ　Ｓｔａｔｓ】</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jistro&show_icons=true&theme=onedark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jistro&theme=onedark&border_radius=3&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jistro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

@@ -22,7 +22,7 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
 </div>
 
 <div id="badges" align="center">
-     <a href="mailto:kevin.padilla.islas@proton.me">
+     <a href="mailto:kevin.padilla.islas@skiff.com">
         <img src="https://img.shields.io/badge/kevin.padilla.islas@skiff.com-orange?style=for-the-badge&&logoColor=white"/>
 </div>
      

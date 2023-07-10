@@ -32,23 +32,23 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
  <p></p>
  Things I use or learn on a daily basis:
  <p>
-        <img src='img/pop_os.png'   width='60'>
-        <img src='img/vs_code.png'  width='60'>
-        <img src='img/foundry.png' width='60'>
-        <img src='img/vite.png'    width='60'>
-        <img src='img/alacritty.png'width='60'>
-        <img src='img/markdown.png' width='60'>
-        <img src='img/latex.png'    width='60'>
-        <img src='img/git.png'      width='60'>
-        <img src='img/avalanche.png'  width='60'>
-        <img src='img/eth.png'        width='60'>
-        <img src='img/icp.png'     width='60'>
-        <img src='img/solidity.png'   width='60'>
-        <img src='img/python.png'     width='60'>
-        <img src='img/anaconda.png'   width='60'>
-        <img src='img/tensorflow.png' width='60'>
-        <img src='img/javascript.png' width='60'>
-        <img src='img/sql.png'        width='60'>
+        <img src='img/pop_os_b.png'   width='60'>
+        <img src='img/vs_code_b.png'  width='60'>
+        <img src='img/foundry_b.png' width='60'>
+        <img src='img/vite_b.png'    width='60'>
+        <img src='img/alacritty_b.png'width='60'>
+        <img src='img/markdown_b.png' width='60'>
+        <img src='img/latex_b.png'    width='60'>
+        <img src='img/git_b.png'      width='60'>
+        <img src='img/avalanche_b.png'  width='60'>
+        <img src='img/eth_b.png'        width='60'>
+        <img src='img/icp_b.png'     width='60'>
+        <img src='img/solidity_b.png'   width='60'>
+        <img src='img/python_b.png'     width='60'>
+        <img src='img/anaconda_b.png'   width='60'>
+        <img src='img/tensorflow_b.png' width='60'>
+        <img src='img/javascript_b.png' width='60'>
+        <img src='img/sql_b.png'        width='60'>
 </p>
 </div>
 

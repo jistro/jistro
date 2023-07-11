@@ -52,4 +52,4 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
 </p>
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=jistro&style=for-the-badge&color=blueviolet)

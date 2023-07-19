@@ -36,6 +36,7 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         <img src='img/vs_code_b.png'    width='65'>
         <img src='img/foundry_b.png'    width='65'>
         <img src='img/vite_b.png'       width='65'>
+        <img src='img/nextjs_b.png'       width='65'>
         <img src='img/alacritty_b.png'  width='65'>
         <img src='img/markdown_b.png'   width='65'>
         <img src='img/latex_b.png'      width='65'>
@@ -43,12 +44,14 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         <img src='img/avalanche_b.png'  width='65'>
         <img src='img/eth_b.png'        width='65'>
         <img src='img/icp_b.png'        width='65'>
+        <img src='img/motoko_b.png'        width='65'>
         <img src='img/solidity_b.png'   width='65'>
         <img src='img/python_b.png'     width='65'>
         <img src='img/anaconda_b.png'   width='65'>
         <img src='img/tensorflow_b.png' width='65'>
         <img src='img/javascript_b.png' width='65'>
         <img src='img/sql_b.png'        width='65'>
+
 </p>
 </div>
 <div> 

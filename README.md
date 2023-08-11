@@ -59,7 +59,6 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         <b>【Ｍｙ　ｃｅｒｔｉｆｉｃａｔｉｏｎｓ　ａｎｄ　ｂａｄｇｅｓ】</b>
         </p> 
         <p></p>
-        <p align="center">【Ｇｏｏｇｌｅ】</p> 
         <p align="center">
                 <a href="https://www.coursera.org/account/accomplishments/certificate/TVQVJFSFKRZQ">
                         <img src='img/badges/g1.webp'   width='235'>
@@ -79,9 +78,6 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2995747">
                         <img src='img/badges/g6.png'    width='200'>
                 </a>
-        </p>
-        <p align="center">【ＩＢＭ】</p>
-        <p align="center">
                 <a href="https://www.credly.com/badges/5afd023a-6125-4ce7-a321-d202871a0db7/">
                         <img src='img/badges/ibm1.png'  width='200'>
                 </a>
@@ -97,9 +93,6 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
                 <a href="https://www.credly.com/badges/1f1980ae-d739-485b-94a4-9391aabd47d6/">
                         <img src='img/badges/ibm5.png'  width='200'>
                 </a>
-        </p>
-        <p align="center">【Ｕｄｅｍｙ】</p>
-        <p align="center">
                 <a href="https://www.udemy.com/certificate/UC-68287075-0fa0-458e-93b1-b43dd863bc1f/">
                         <img src='img/badges/udemy1.jpg'    width='250'>
                 </a>

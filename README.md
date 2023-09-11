@@ -94,7 +94,10 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
                         <img src='img/badges/ibm5.png'  width='150'>
                 </a>
                 <a href="https://www.udemy.com/certificate/UC-68287075-0fa0-458e-93b1-b43dd863bc1f/">
-                        <img src='img/badges/udemy1.jpg'    width='150'>
+                        <img src='img/badges/udemy1.jpg'    width='200'>
+                </a>
+                <a href="https://drive.google.com/file/d/1rbrvF3pcPLB8QKv5DNtI94tTSY7vmnax/view">
+                        <img src='img/badges/ic.jpg'    width='200'>
                 </a>
         </p>
         <p align="center">【Ｏｔｈｅｒ　ｃｏｕｒｓｅｓ】</p>

@@ -61,40 +61,40 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         <p></p>
         <p align="center">
                 <a href="https://www.coursera.org/account/accomplishments/certificate/TVQVJFSFKRZQ">
-                        <img src='img/badges/g1.webp'   width='235'>
+                        <img src='img/badges/g1.webp'   width='175'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3070444">
-                        <img src='img/badges/g2.png'    width='200'>
+                        <img src='img/badges/g2.png'    width='150'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3024806">
-                        <img src='img/badges/g3.png'    width='200'>
+                        <img src='img/badges/g3.png'    width='150'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2980142">
-                        <img src='img/badges/g4.png'    width='200'>
+                        <img src='img/badges/g4.png'    width='150'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2966859">
-                        <img src='img/badges/g5.png'    width='200'>
+                        <img src='img/badges/g5.png'    width='150'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2995747">
-                        <img src='img/badges/g6.png'    width='200'>
+                        <img src='img/badges/g6.png'    width='150'>
                 </a>
                 <a href="https://www.credly.com/badges/5afd023a-6125-4ce7-a321-d202871a0db7/">
-                        <img src='img/badges/ibm1.png'  width='200'>
+                        <img src='img/badges/ibm1.png'  width='150'>
                 </a>
                 <a href="https://www.credly.com/badges/f8bfc804-98d6-4c98-a7ea-cc7564a81673/">
-                        <img src='img/badges/ibm2.png'  width='200'>
+                        <img src='img/badges/ibm2.png'  width='150'>
                 </a>
                 <a href="https://www.credly.com/badges/dc6fc5f6-9452-4dd5-a67c-93914a4c5396/">
-                        <img src='img/badges/ibm3.png'  width='200'>
+                        <img src='img/badges/ibm3.png'  width='150'>
                 </a>
                 <a href="https://www.credly.com/badges/b52e2e46-54bd-4e84-8bb0-fe0016615396/">
-                        <img src='img/badges/ibm4.png'  width='200'>
+                        <img src='img/badges/ibm4.png'  width='150'>
                 </a>
                 <a href="https://www.credly.com/badges/1f1980ae-d739-485b-94a4-9391aabd47d6/">
-                        <img src='img/badges/ibm5.png'  width='200'>
+                        <img src='img/badges/ibm5.png'  width='150'>
                 </a>
                 <a href="https://www.udemy.com/certificate/UC-68287075-0fa0-458e-93b1-b43dd863bc1f/">
-                        <img src='img/badges/udemy1.jpg'    width='250'>
+                        <img src='img/badges/udemy1.jpg'    width='150'>
                 </a>
         </p>
         <p align="center">【Ｏｔｈｅｒ　ｃｏｕｒｓｅｓ】</p>
@@ -105,28 +105,22 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         </p>
         <p align="center">
         <a href="https://opensea.io/account?search[collections][0]=foundry-course-nft">
-                <img src='img/badges/pat1.avif'  width='200'>
-                <img src='img/badges/pat2.avif'  width='200'>
-                <img src='img/badges/pat3.avif'  width='200'>
-                <img src='img/badges/pat4.avif'  width='200'>
-                <img src='img/badges/pat5.avif'  width='200'>
-                <img src='img/badges/pat6.avif'  width='200'>
-                <img src='img/badges/pat7.avif'  width='200'>
+                <img src='img/badges/badges.png'  width='800'>
         </a>
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
         <p align="center">
         <a href="https://explorer.poap.xyz/jistro.eth/6570664">
-        <img src='img/badges/POAP/P1.gif'    width='200'>
+        <img src='img/badges/POAP/P1.gif'    width='150'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6637780">
-        <img src='img/badges/POAP/P2.png'    width='200'>
+        <img src='img/badges/POAP/P2.png'    width='150'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692239">
-        <img src='img/badges/POAP/P3.gif'    width='200'>
+        <img src='img/badges/POAP/P3.gif'    width='150'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692248">
-        <img src='img/badges/POAP/P4.gif'    width='200'>
+        <img src='img/badges/POAP/P4.gif'    width='150'>
         </a>
         </p>
         <p align="center">

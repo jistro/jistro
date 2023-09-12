@@ -125,6 +125,12 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
         <a href="https://explorer.poap.xyz/jistro.eth/6692248">
         <img src='img/badges/POAP/P4.gif'    width='150'>
         </a>
+        <a href="https://explorer.poap.xyz/jistro.eth/6737526">
+        <img src='img/badges/POAP/p5.png'    width='150'>
+        </a>
+        <a href="https://explorer.poap.xyz/jistro.eth/6747280">
+        <img src='img/badges/POAP/p6.png'    width='150'>
+        </a>
         </p>
         <p align="center">
         <a href="https://explorer.poap.xyz/jistro.eth">

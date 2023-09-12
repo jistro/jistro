@@ -30,7 +30,6 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
 <div>
  <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>
  <p></p>
- Things I use or learn on a daily basis:
  <p>
         <img src='img/pop_os_b.png'     width='65'>
         <img src='img/vs_code_b.png'    width='65'>

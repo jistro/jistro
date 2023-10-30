@@ -1,13 +1,8 @@
-
-<p align="center">【Ｗｅｌｃｏｍｅ】</p>
- 
+<p align="center">【Ｗｅｌｃｏｍｅ】</p> 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="300"/>
+ <img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="300"/>
 </div>
-<p></p>
-
-<p align="center">【Ａｂｏｕｔ　Ｍｅ】</p>
-
+<br/>
 Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
 - Founder of 0xBlockLab, a web3/blockchain university community at Benemérita Universidad Autónoma de Puebla.
@@ -17,25 +12,22 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
 **Languages**: Engish and Spanish (Native) 
 
-
+<br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
-
-
 <p align="center">
-<a href="https://www.linkedin.com/in/kevin-padilla-islas/"><img src="https://img.shields.io/badge/-Kevin Padilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/jistro"><img src="https://img.shields.io/badge/-@jistro-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://jistro.eth.limo/"><img src="https://img.shields.io/badge/-jistro.eth-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
-<a href="mailto:kevin.padilla.islas@skiff.com"><img src="https://img.shields.io/badge/-kevin.padilla.islas%40skiff.com-D14836?style=flat&logo=Mail&logoColor=white"/></a>
-
-
-<div/>
+ <a href="https://www.linkedin.com/in/kevin-padilla-islas/"><img src="https://img.shields.io/badge/-Kevin Padilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/jistro"><img src="https://img.shields.io/badge/-@jistro-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+ <a href="https://jistro.eth.limo/"><img src="https://img.shields.io/badge/-jistro.eth-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
+ <a href="mailto:kevin.padilla.islas@skiff.com"><img src="https://img.shields.io/badge/-kevin.padilla.islas%40skiff.com-D14836?style=flat&logo=Mail&logoColor=white"/></a>
+</p>
+<br/>
 <p align="center">【﻿Ｃｈｅｃｋ　ｍｙ　ｐｏｒｔｆｏｌｉｏ　ｂｙ　ｃｌｉｃｋｉｎｇ　ｈｅｒｅ】</p>
- <p align="center">
-<a href="https://github.com/jistro/my-portafolio/blob/main/README.md"><img src="https://github.com/jistro/my-portafolio/blob/main/README_assets/banner.png" height='200px'/></a>
+<p align="center">
+ <a href="https://github.com/jistro/my-portafolio/blob/main/README.md"><img src="https://github.com/jistro/my-portafolio/blob/main/README_assets/banner.png" height='200px'/></a>
 </p>
 <div>
  <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>
- <p></p>
+<br/>
  <p>
         <img src='img/pop_os_b.png'     width='65'>
         <img src='img/vs_code_b.png'    width='65'>

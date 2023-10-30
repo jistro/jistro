@@ -8,12 +8,15 @@
 
 <p align="center">【Ａｂｏｕｔ　Ｍｅ】</p>
 
-Hi, I'm Kevin Padilla, an entry-level data scientist and blockchain engineer 👨‍💻 from Mexico. 
-I am the founder of 0xBlockLab, a web3/blockchain university community at Benemerita Universidad Autonoma de Puebla.
+Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
+
+- Founder of 0xBlockLab, a web3/blockchain university community at Benemérita Universidad Autónoma de Puebla.
+- Arbitrum ambassador.
 
 **Gender**: Non-binary (She/He  El/Ella)
 
 **Languages**: Engish and Spanish (Native) 
+
 
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
 

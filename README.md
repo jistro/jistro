@@ -26,7 +26,10 @@ I am the founder of 0xBlockLab, a web3/blockchain university community at Beneme
 
 
 <div/>
-
+<p align="center">【﻿Ｃｈｅｃｋ　ｍｙ　ｐｏｒｔｆｏｌｉｏ　ｂｙ　ｃｌｉｃｋｉｎｇ　ｈｅｒｅ】</p>
+ <p align="center">
+<a href="https://github.com/jistro/my-portafolio/blob/main/README.md"><img src="https://github.com/jistro/my-portafolio/blob/main/README_assets/banner.png" height='200px'/></a>
+</p>
 <div>
  <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>
  <p></p>

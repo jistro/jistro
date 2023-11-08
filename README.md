@@ -142,3 +142,9 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </p>
 </div>
 
+<p align="center">【﻿Ｓｏｍｅ　ｆｕｎ　ｓｔａｔｓ】</p>
+<div id="header" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jistro&show_icons=true&count_private=true&layout=donut-vertical" />
+</a>
+</div>

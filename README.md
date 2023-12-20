@@ -7,6 +7,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
 - Founder of 0xBlockLab, a web3/blockchain university community at Benemérita Universidad Autónoma de Puebla.
 - Arbitrum ambassador.
+- Developer at [Roll A Mate](https://x.com/RollAMate)
 
 **Gender**: Non-binary (She/He  El/Ella)
 

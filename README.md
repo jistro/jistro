@@ -19,7 +19,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
  <a href="https://www.linkedin.com/in/kevin-padilla-islas/"><img src="https://img.shields.io/badge/-Kevin Padilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/jistro"><img src="https://img.shields.io/badge/-@jistro-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
  <a href="https://jistro.eth.limo/"><img src="https://img.shields.io/badge/-jistro.eth-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
- <a href="mailto:kevin.padilla.islas@skiff.com"><img src="https://img.shields.io/badge/-kevin.padilla.islas%40skiff.com-D14836?style=flat&logo=Mail&logoColor=white"/></a>
+ <a href="mailto:contact@jistro.xyz"><img src="https://img.shields.io/badge/-contact%40jistro.xyz-D14836?style=flat&logo=Mail&logoColor=white"/></a>
 </p>
 <br/>
 <p align="center">【﻿Ｃｈｅｃｋ　ｍｙ　ｐｏｒｔｆｏｌｉｏ　ｂｙ　ｃｌｉｃｋｉｎｇ　ｈｅｒｅ】</p>

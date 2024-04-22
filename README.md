@@ -5,13 +5,16 @@
 <br/>
 Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
-- Founder of 0xBlockLab, a web3/blockchain university community at Benemérita Universidad Autónoma de Puebla.
-- Arbitrum ambassador.
-- Developer at [Roll A Mate](https://x.com/RollAMate)
-
-**Gender**: Non-binary (She/He  El/Ella)
+**Gender**: Non-binary (Esp: ella/el Eng: They/Her/Him)
 
 **Languages**: Engish and Spanish (Native) 
+
+- Arbitrum ambassador.
+- Developer at [Roll A Mate](https://x.com/RollAMate)
+- Core team at [DeSci Mexico](https://twitter.com/DeSciMX)
+- Core team at [H.E.R. D.A.O Mexico](https://twitter.com/HerDaoMexico)
+
+
 
 <br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
@@ -112,22 +115,22 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </p>
         <p align="center">
         <a href="https://opensea.io/account?search[collections][0]=foundry-course-nft">
-                <img src='img/badges/badges.png'  width='800'>
+                <img src='img/badges/badges.png'  width='700'>
         </a>
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
         <p align="center">
-        <a href="https://explorer.poap.xyz/jistro.eth/6570664">
-        <img src='img/badges/POAP/P1.gif'    width='150'>
+        <a href="https://explorer.poap.xyz/jistro.eth/7101028">
+        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    width='150'>
         </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6637780">
-        <img src='img/badges/POAP/P2.png'    width='150'>
+        <a href="https://explorer.poap.xyz/jistro.eth/6987256">
+        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    width='150'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692239">
         <img src='img/badges/POAP/P3.gif'    width='150'>
         </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6692248">
-        <img src='img/badges/POAP/P4.gif'    width='150'>
+        <a href="https://explorer.poap.xyz/jistro.eth/7005906">
+        <img src='https://poap0.imgix.net/c35ee2c3-0b48-4d25-a9ef-23b1048e133e.png'    width='150'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6737526">
         <img src='img/badges/POAP/p5.png'    width='150'>

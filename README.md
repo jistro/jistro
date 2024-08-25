@@ -120,7 +120,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </p>
         <p align="center">
         <a href="https://opensea.io/account?search[collections][0]=foundry-course-nft">
-                <img src='img/badges/badges.png'  height='240vw'>
+                <img src='img/badges/badges.png'  >
         </a>
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>

@@ -64,52 +64,52 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         <p></p>
         <p align="center">
                 <a href="https://www.coursera.org/account/accomplishments/certificate/TVQVJFSFKRZQ">
-                        <img src='img/badges/g1.webp'   width='141'>
+                        <img src='img/badges/g1.webp'   height='120vw'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3070444">
-                        <img src='img/badges/g2.png'    width='120'>
+                        <img src='img/badges/g2.png'    height='120vw'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3024806">
-                        <img src='img/badges/g3.png'    width='120'>
+                        <img src='img/badges/g3.png'    height='120vw'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2980142">
-                        <img src='img/badges/g4.png'    width='120'>
+                        <img src='img/badges/g4.png'    height='120vw'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2966859">
-                        <img src='img/badges/g5.png'    width='120'>
+                        <img src='img/badges/g5.png'    height='120vw'>
                 </a>
                 <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2995747">
-                        <img src='img/badges/g6.png'    width='120'>
+                        <img src='img/badges/g6.png'    height='120vw'>
                 </a>
                 <a href="https://www.credly.com/badges/5afd023a-6125-4ce7-a321-d202871a0db7/">
-                        <img src='img/badges/ibm1.png'  width='120'>
+                        <img src='img/badges/ibm1.png'  height='120vw'>
                 </a>
                 <a href="https://www.credly.com/badges/f8bfc804-98d6-4c98-a7ea-cc7564a81673/">
-                        <img src='img/badges/ibm2.png'  width='120'>
+                        <img src='img/badges/ibm2.png'  height='120vw'>
                 </a>
                 <a href="https://www.credly.com/badges/dc6fc5f6-9452-4dd5-a67c-93914a4c5396/">
-                        <img src='img/badges/ibm3.png'  width='120'>
+                        <img src='img/badges/ibm3.png'  height='120vw'>
                 </a>
                 <a href="https://www.credly.com/badges/b52e2e46-54bd-4e84-8bb0-fe0016615396/">
-                        <img src='img/badges/ibm4.png'  width='120'>
+                        <img src='img/badges/ibm4.png'  height='120vw'>
                 </a>
                 <a href="https://www.credly.com/badges/1f1980ae-d739-485b-94a4-9391aabd47d6/">
-                        <img src='img/badges/ibm5.png'  width='120'>
+                        <img src='img/badges/ibm5.png'  height='120vw'>
                 </a>
                 <a href="https://www.udemy.com/certificate/UC-68287075-0fa0-458e-93b1-b43dd863bc1f/">
-                        <img src='img/badges/udemy1.jpg' width='150'>
+                        <img src='img/badges/udemy1.jpg' height='120vw'>
                 </a>
                 <a href="https://github.com/jistro/jistro/blob/main/certs/icpC01.pdf">
-                        <img src='img/badges/ic.jpg'    width='158'>
+                        <img src='img/badges/ic.jpg'    height='120vw'>
                 </a>
                 <a href="https://github.com/jistro/jistro/blob/main/certs/avaxC01.pdf">
-                        <img src='img/badges/avax01.jpg'    width='150'>
+                        <img src='img/badges/avax01.jpg'    height='120vw'>
                 </a>
                 <a href="https://github.com/jistro/jistro/blob/main/certs/avaxC02.pdf">
-                        <img src='img/badges/avax02.jpg'    width='150'>
+                        <img src='img/badges/avax02.jpg'    height='120vw'>
                 </a>
                 <a href="https://opensea.io/assets/arbitrum/0xb6bf460b6093dc85d93299da69f7786b434e2e51/19">
-                        <img src='https://storage.niftykit.com/ipfs/bafybeievdpwxgiezbjxtfbf3lxjoml7fcb52de6saxx432n7amooxdevba/e0b28ceb-0492-4fb6-8992-51cf2d35b903'    width='150'>
+                        <img src='https://storage.niftykit.com/ipfs/bafybeievdpwxgiezbjxtfbf3lxjoml7fcb52de6saxx432n7amooxdevba/e0b28ceb-0492-4fb6-8992-51cf2d35b903'    height='120vw'>
                 </a>
         </p>
         <p align="center">【Ｏｔｈｅｒ　ｃｏｕｒｓｅｓ】</p>
@@ -120,28 +120,28 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </p>
         <p align="center">
         <a href="https://opensea.io/account?search[collections][0]=foundry-course-nft">
-                <img src='img/badges/badges.png'  width='700'>
+                <img src='img/badges/badges.png'  height='240vw'>
         </a>
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
         <p align="center">
         <a href="https://explorer.poap.xyz/jistro.eth/7101028">
-        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    width='150'>
+        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    height='120vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6987256">
-        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    width='150'>
+        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    height='120vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692239">
-        <img src='img/badges/POAP/P3.gif'    width='150'>
+        <img src='img/badges/POAP/P3.gif'    height='120vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/7005906">
-        <img src='https://poap0.imgix.net/c35ee2c3-0b48-4d25-a9ef-23b1048e133e.png'    width='150'>
+        <img src='https://poap0.imgix.net/c35ee2c3-0b48-4d25-a9ef-23b1048e133e.png'    height='120vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6737526">
-        <img src='img/badges/POAP/p5.png'    width='150'>
+        <img src='img/badges/POAP/p5.png'    height='120vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6747280">
-        <img src='img/badges/POAP/p6.png'    width='150'>
+        <img src='img/badges/POAP/p6.png'    height='120vw'>
         </a>
         </p>
         <p align="center">

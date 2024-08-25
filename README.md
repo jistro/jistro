@@ -1,6 +1,8 @@
-<p align="center">【Ｗｅｌｃｏｍｅ】</p> 
+<p align="center">【Ｗｅｌｃｏｍｅ】</p>
+
+
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="300"/>
+ <img src="https://github.com/user-attachments/assets/849d5169-ef3b-4627-b53a-a0a12f9bc45e"/>
 </div>
 <br/>
 Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.

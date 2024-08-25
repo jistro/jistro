@@ -109,7 +109,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
                         <img src='img/badges/avax02.jpg'    width='150'>
                 </a>
                 <a href="https://opensea.io/assets/arbitrum/0xb6bf460b6093dc85d93299da69f7786b434e2e51/19">
-                        <img src='https://raw.seadn.io/files/c17bb9b14e614f462897d65621787363.png'    width='150'>
+                        <img src='https://storage.niftykit.com/ipfs/bafybeievdpwxgiezbjxtfbf3lxjoml7fcb52de6saxx432n7amooxdevba/e0b28ceb-0492-4fb6-8992-51cf2d35b903'    width='150'>
                 </a>
         </p>
         <p align="center">【Ｏｔｈｅｒ　ｃｏｕｒｓｅｓ】</p>

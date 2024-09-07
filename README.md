@@ -7,7 +7,7 @@
 <br/>
 Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
-**Gender**: Non-binary (Esp: ella/el Eng: They/Her/Him)
+**Gender**: Non-binary (Esp: ella/el Eng: she/he/they)
 
 **Languages**: Engish and Spanish (Native) 
 

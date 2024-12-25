@@ -128,7 +128,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         <a href="https://collectors.poap.xyz/token/7101028">
         <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    height='150vw'>
         </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6987256">
+        <a href="https://collectors.poap.xyz/token/6987256">
         <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    height='150vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692239">

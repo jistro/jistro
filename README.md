@@ -125,27 +125,18 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
         <p align="center">
-        <a href="https://explorer.poap.xyz/jistro.eth/7101028">
-        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    height='120vw'>
+        <a href="https://collectors.poap.xyz/token/7101028">
+        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    height='150vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6987256">
-        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    height='120vw'>
+        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    height='150vw'>
         </a>
         <a href="https://explorer.poap.xyz/jistro.eth/6692239">
-        <img src='img/badges/POAP/P3.gif'    height='120vw'>
-        </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/7005906">
-        <img src='https://poap0.imgix.net/c35ee2c3-0b48-4d25-a9ef-23b1048e133e.png'    height='120vw'>
-        </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6737526">
-        <img src='img/badges/POAP/p5.png'    height='120vw'>
-        </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6747280">
-        <img src='img/badges/POAP/p6.png'    height='120vw'>
+        <img src='https://assets.poap.xyz/76cfb1fa-d187-49a1-a873-2f17e58e3116.png'    height='150vw'>
         </a>
         </p>
         <p align="center">
-        <a href="https://explorer.poap.xyz/jistro.eth">
+        <a href="https://collectors.poap.xyz/scan/jistro.eth">
         <b>More POAP's</b>
         </a>
         </p>

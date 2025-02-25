@@ -12,11 +12,13 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 **Languages**: Engish and Spanish (Native) 
 
 - Arbitrum ambassador.
+- Co-founder at [EVVM](https://x.com/RollAMate)
 - Developer at [Roll A Mate](https://x.com/RollAMate)
 - Core team at [DeSci Mexico](https://twitter.com/DeSciMX)
 - Core team at [H.E.R. D.A.O Mexico](https://twitter.com/HerDaoMexico)
 
 
+Profile and banner art by [@dysphoria](https://x.com/dysphoria_chan)
 
 <br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
@@ -141,6 +143,8 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
         </a>
         </p>
 </div>
+
+
 
 <p align="center">【﻿Ｓｏｍｅ　ｆｕｎ　ｓｔａｔｓ】</p>
 <div id="header" align="center">

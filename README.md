@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
- <img src="https://github.com/user-attachments/assets/849d5169-ef3b-4627-b53a-a0a12f9bc45e"/>
+ <img src="https://raw.githubusercontent.com/jistro/jistro/refs/heads/main/img/bannerGithub.png"/>
 </div>
 <br/>
 Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.

@@ -12,7 +12,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 **Languages**: Engish and Spanish (Native) 
 
 - Arbitrum ambassador.
-- Co-founder & core dev at [EVVM](https://x.com/RollAMate)
+- CTO at [EVVM](https://x.com/RollAMate)
 - Core team at [DeSci Mexico](https://twitter.com/DeSciMX)
 - Core team at [H.E.R. D.A.O Mexico](https://twitter.com/HerDaoMexico)
 

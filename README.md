@@ -126,14 +126,8 @@ Profile and banner art by [@dysphoria_chan](https://x.com/dysphoria_chan)
         </p>
         <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
         <p align="center">
-        <a href="https://collectors.poap.xyz/token/7101028">
-        <img src='https://poap8.imgix.net/ab0d9e32-5637-4209-9b75-3ae51903109e.png'    height='150vw'>
-        </a>
-        <a href="https://collectors.poap.xyz/token/6987256">
-        <img src='https://poap1.imgix.net/ef114477-1f9f-405c-8679-5f9be706d6ea.png'    height='150vw'>
-        </a>
-        <a href="https://explorer.poap.xyz/jistro.eth/6692239">
-        <img src='https://assets.poap.xyz/76cfb1fa-d187-49a1-a873-2f17e58e3116.png'    height='150vw'>
+        <a href="https://www.gitpoap.io/gp/1149">
+        <img src='https://assets.poap.xyz/ethcc-5b85d-speaker-2025-logo-1751244295944.png'    height='150vw'>
         </a>
         </p>
         <p align="center">

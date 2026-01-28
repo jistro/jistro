@@ -13,8 +13,8 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 
 - Arbitrum ambassador.
 - CTO at [EVVM](https://x.com/RollAMate)
-- Core team at [DeSci Mexico](https://twitter.com/DeSciMX)
-- Core team at [H.E.R. D.A.O Mexico](https://twitter.com/HerDaoMexico)
+- Core team at [H.E.R. D.A.O Mexico](https://x.com/HerDaoMexico)
+- Core team at [ETH Cinco de Mayo](https://x.com/ETHCincoDeMayo)
 
 
 Pixel art profile and banner made by [@dysphoria_chan](https://x.com/dysphoria_chan)

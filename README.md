@@ -17,7 +17,7 @@ Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
 - Core team at [H.E.R. D.A.O Mexico](https://twitter.com/HerDaoMexico)
 
 
-Profile and banner art by [@dysphoria_chan](https://x.com/dysphoria_chan)
+Pixel art profile and banner made by [@dysphoria_chan](https://x.com/dysphoria_chan)
 
 <br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>

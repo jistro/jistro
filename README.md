@@ -131,7 +131,7 @@ Pixel art profile and banner made by [@dysphoria_chan](https://x.com/dysphoria_c
         </a>
         </p>
         <p align="center">
-        <a href="https://collectors.poap.xyz/scan/jistro.eth">
+        <a href="https://www.gitpoap.io/p/jistro.eth">
         <b>More POAP's</b>
         </a>
         </p>

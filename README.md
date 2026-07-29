@@ -3,145 +3,33 @@
 
 <div id="header" align="center">
  <img src="https://raw.githubusercontent.com/jistro/jistro/refs/heads/main/img/bannerGithub.png"/>
+ 
 </div>
-<br/>
-Hi, I'm Kevin Padilla, a blockchain developer 👨‍💻 from Mexico.
-
-**Gender**: <a href="https://badge.les.bi"><img title="enby" style="image-rendering: pixelated;" height="15px" src="https://badge.les.bi/88x31/enby/gloss.png"></a> Non-binary  (Esp: ella/el Eng: she/he/they)
-
-**Languages**: Engish and Spanish (Native) 
-
-- Arbitrum ambassador.
-- CTO at [EVVM](https://x.com/RollAMate)
-- Core team at [H.E.R. D.A.O Mexico](https://x.com/HerDaoMexico)
-- Core team at [ETH Cinco de Mayo](https://x.com/ETHCincoDeMayo)
-
 
 Pixel art profile and banner made by [@dysphoria_chan](https://x.com/dysphoria_chan)
 
 <br/>
+Hi, I'm Kevin, a Non-binary developer from Mexico.
+
+**Gender**: <a href="https://badge.les.bi"><img title="enby" style="image-rendering: pixelated;" height="14px"  src="https://badge.les.bi/88x31/enby/gloss.png"></a> Non-binary \
+**Languages**: Engish and Spanish (Native) 
+
+<br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
-<p align="center">
- <a href="https://www.linkedin.com/in/kevin-padilla-islas/"><img src="https://img.shields.io/badge/-Kevin Padilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/jistro"><img src="https://img.shields.io/badge/-@jistro-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
- <a href="https://jistro.eth.limo/"><img src="https://img.shields.io/badge/-jistro.eth-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
- <a href="mailto:contact@jistro.xyz"><img src="https://img.shields.io/badge/-contact%40jistro.xyz-D14836?style=flat&logo=Mail&logoColor=white"/></a>
-</p>
+
+```json
+{
+    "website": "https://jistro.xyz",
+    "twitter/x": "@jistro",
+    "linkedin": "https://www.linkedin.com/in/kevin-padilla-islas",
+    "email": "contact@jistro.xyz"
+}
+```
+
+
 <br/>
 <p align="center">【﻿Ｃｈｅｃｋ　ｍｙ　ｐｏｒｔｆｏｌｉｏ　ｂｙ　ｃｌｉｃｋｉｎｇ　ｈｅｒｅ】</p>
 <p align="center">
- <a href="https://github.com/jistro/my-portafolio/blob/main/README.md"><img src="https://github.com/jistro/my-portafolio/blob/main/README_assets/banner.png" height='200px'/></a>
+ <a href="https://www.jistro.xyz/MyProjects/"><img src="https://github.com/user-attachments/assets/9b223857-179d-4a9a-8331-6e8949e86ff2" height='200px'/></a>
 </p>
-<div>
- <p align="center">【Ｌａｎｇｕａｇｅｓ　ａｎｄ　Ｔｏｏｌｓ】</p>
-<br/>
- <p>
-        <img src='img/pop_os_b.png'     width='65'>
-        <img src='img/vs_code_b.png'    width='65'>
-        <img src='img/foundry_b.png'    width='65'>
-        <img src='img/vite_b.png'       width='65'>
-        <img src='img/nextjs_b.png'       width='65'>
-        <img src='img/alacritty_b.png'  width='65'>
-        <img src='img/markdown_b.png'   width='65'>
-        <img src='img/latex_b.png'      width='65'>
-        <img src='img/git_b.png'        width='65'>
-        <img src='img/avalanche_b.png'  width='65'>
-        <img src='img/eth_b.png'        width='65'>
-        <img src='img/icp_b.png'        width='65'>
-        <img src='img/motoko_b.png'        width='65'>
-        <img src='img/solidity_b.png'   width='65'>
-        <img src='img/python_b.png'     width='65'>
-        <img src='img/anaconda_b.png'   width='65'>
-        <img src='img/tensorflow_b.png' width='65'>
-        <img src='img/javascript_b.png' width='65'>
-        <img src='img/sql_b.png'        width='65'>
 
-</p>
-</div>
-<div> 
-        <p align="center">
-        <b>【Ｍｙ　ｃｅｒｔｉｆｉｃａｔｉｏｎｓ　ａｎｄ　ｂａｄｇｅｓ】</b>
-        </p> 
-        <p></p>
-        <p align="center">
-                <a href="https://www.coursera.org/account/accomplishments/certificate/TVQVJFSFKRZQ">
-                        <img src='img/badges/g1.webp'   height='120vw'>
-                </a>
-                <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3070444">
-                        <img src='img/badges/g2.png'    height='120vw'>
-                </a>
-                <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/3024806">
-                        <img src='img/badges/g3.png'    height='120vw'>
-                </a>
-                <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2980142">
-                        <img src='img/badges/g4.png'    height='120vw'>
-                </a>
-                <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2966859">
-                        <img src='img/badges/g5.png'    height='120vw'>
-                </a>
-                <a href="https://www.cloudskillsboost.google/public_profiles/c1dec429-3077-47ab-a5c5-48277328efa8/badges/2995747">
-                        <img src='img/badges/g6.png'    height='120vw'>
-                </a>
-                <a href="https://www.credly.com/badges/5afd023a-6125-4ce7-a321-d202871a0db7/">
-                        <img src='img/badges/ibm1.png'  height='120vw'>
-                </a>
-                <a href="https://www.credly.com/badges/f8bfc804-98d6-4c98-a7ea-cc7564a81673/">
-                        <img src='img/badges/ibm2.png'  height='120vw'>
-                </a>
-                <a href="https://www.credly.com/badges/dc6fc5f6-9452-4dd5-a67c-93914a4c5396/">
-                        <img src='img/badges/ibm3.png'  height='120vw'>
-                </a>
-                <a href="https://www.credly.com/badges/b52e2e46-54bd-4e84-8bb0-fe0016615396/">
-                        <img src='img/badges/ibm4.png'  height='120vw'>
-                </a>
-                <a href="https://www.credly.com/badges/1f1980ae-d739-485b-94a4-9391aabd47d6/">
-                        <img src='img/badges/ibm5.png'  height='120vw'>
-                </a>
-                <a href="https://www.udemy.com/certificate/UC-68287075-0fa0-458e-93b1-b43dd863bc1f/">
-                        <img src='img/badges/udemy1.jpg' height='120vw'>
-                </a>
-                <a href="https://github.com/jistro/jistro/blob/main/certs/icpC01.pdf">
-                        <img src='img/badges/ic.jpg'    height='120vw'>
-                </a>
-                <a href="https://github.com/jistro/jistro/blob/main/certs/avaxC01.pdf">
-                        <img src='img/badges/avax01.jpg'    height='120vw'>
-                </a>
-                <a href="https://github.com/jistro/jistro/blob/main/certs/avaxC02.pdf">
-                        <img src='img/badges/avax02.jpg'    height='120vw'>
-                </a>
-                <a href="https://opensea.io/assets/arbitrum/0xb6bf460b6093dc85d93299da69f7786b434e2e51/19">
-                        <img src='https://storage.niftykit.com/ipfs/bafybeievdpwxgiezbjxtfbf3lxjoml7fcb52de6saxx432n7amooxdevba/e0b28ceb-0492-4fb6-8992-51cf2d35b903'    height='120vw'>
-                </a>
-        </p>
-        <p align="center">【Ｏｔｈｅｒ　ｃｏｕｒｓｅｓ】</p>
-        <p align="center" >
-                <a href="https://github.com/Cyfrin/foundry-full-course-f23">
-                        <b>Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023</b>
-                </a>
-        </p>
-        <p align="center">
-        <a href="https://opensea.io/account?search[collections][0]=foundry-course-nft">
-                <img src='img/badges/badges.png'  >
-        </a>
-        </p>
-        <p align="center">【Ｒｅｌｅｖａｎｔ　ＰＯＡＰ＇Ｓ】</p>
-        <p align="center">
-        <a href="https://www.gitpoap.io/gp/1149">
-        <img src='https://assets.poap.xyz/ethcc-5b85d-speaker-2025-logo-1751244295944.png'    height='150vw'>
-        </a>
-        </p>
-        <p align="center">
-        <a href="https://www.gitpoap.io/p/jistro.eth">
-        <b>More POAP's</b>
-        </a>
-        </p>
-</div>
-
-
-
-<p align="center">【﻿Ｓｏｍｅ　ｆｕｎ　ｓｔａｔｓ】</p>
-<div id="header" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jistro&show_icons=true&count_private=true&layout=donut-vertical" />
-</a>
-</div>

@@ -14,7 +14,6 @@ Hi, I'm Kevin, a Non-binary developer from Mexico.
 **Gender**: <a href="https://badge.les.bi"><img title="enby" style="image-rendering: pixelated;" height="14px"  src="https://badge.les.bi/88x31/enby/gloss.png"></a> Non-binary \
 **Languages**: Engish and Spanish (Native) 
 
-<br/>
 <p align="center">【Ｃｏｎｔａｃｔ】</p>
 
 ```json
